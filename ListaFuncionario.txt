@@ -1,0 +1,4 @@
+Funcionario{nome='Santos', sexo='Masculino', salario=8000.0}
+Funcionario{nome='Luis', sexo='Masculino', salario=2000.0}
+Funcionario{nome='Carlos', sexo='Masculino', salario=3000.0} 5000.0 8000.0
+Programador{cargo='Programador', senha='234567'}
